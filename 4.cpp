@@ -6,7 +6,7 @@ int w;
 
 int main(){
     cin >> w;
-    if(w%2 == 0){
+    if(w%2 == 0 && w > 2){
         cout << "YES";
     }
     else{
