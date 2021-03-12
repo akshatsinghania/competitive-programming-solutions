@@ -1,1 +1,1 @@
-Breadth << Length
+*
